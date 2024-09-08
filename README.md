@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm ian chen</h1>
+<h3 align="center">畢業於輔仁大學應用統計所，主要鑽研於數據處理和機器學習，對coding很有興趣，目前慢慢成長中...</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ianchen1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianchen1999" height="30" width="40" /></a>
