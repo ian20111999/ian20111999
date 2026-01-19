@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ian chen</h1>
-<h3 align="center">畢業於輔仁大學應用統計所，主要鑽研於數據處理和機器學習，對coding很有興趣，目前慢慢成長中...</h3>
+<h3 align="center">目前任職於富邦人壽。專精於將生成式 AI (GenAI) 與深度學習技術落地於金融場景。
+核心實績包含：主導導入 Azure OpenAI 進行病歷自動摘要、開發 OCR 識別系統優化理賠與放款流程，以及利用 AI 輔助 COBOL 轉 Java 的核心系統現代化專案。致力於透過數據技術驅動商業流程自動化與數位轉型。</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
